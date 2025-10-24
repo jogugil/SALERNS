@@ -27,12 +27,12 @@ Desarrollar protocolos de comunicación resilientes que permitan establecer enla
 
 ## Estructura del Proyecto
 SALERNS/
-├── simulations/ # Simulaciones de canal y protocolos
-├── firmware/ # Implementación para dispositivos embebidos
-├── protocols/ # Especificaciones de protocolos modificados
-├── docs/ # Documentación técnica y artículos
-├── tests/ # Suite de pruebas y validación
-└── hardware/ # Diseños de referencia (opcional)
+├── simulations/   # Simulaciones de canal y protocolos
+├── firmware/      # Implementación para dispositivos embebidos
+├── protocols/     # Especificaciones de protocolos modificados
+├── docs/          # Documentación técnica y artículos
+├── tests/         # Suite de pruebas y validación
+└── hardware/      # Diseños de referencia (opcional)
 
 ## Estado del Desarrollo
 
