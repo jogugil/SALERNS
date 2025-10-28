@@ -120,14 +120,14 @@ Si tienes permiso para usar este trabajo en tu investigación, debes citar:
 title = {SALERNS: Satellite Emergency LoRa Network System},
 author = {Tu Nombre},
 year = {2025},
-url = {https://github.com/tu-usuario/SALERNS}
+url = {https://github.com/jogugil/SALERNS}
 ,
 note = {Protocolos LoRa modificados para comunicaciones de emergencia vía satélite - Uso restringido}
 }
 ## Contacto
 - Coordinador del Proyecto: [Tu Nombre]  
 - Email: [tu.email@dominio.com]  
-- Repositorio: https://github.com/tu-usuario/SALERNS  
+- Repositorio: https://github.com/jogugil/SALERNS  
 
 **Para solicitudes de colaboración o permisos de uso:**
 - Enviar solicitud formal por email
