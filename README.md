@@ -58,7 +58,7 @@ Licencia Combinada: **Creative Commons BY-NC-ND 4.0 + Restricciones Académicas 
 - **Sin Obras Derivadas (ND):** No puedes redistribuir material modificado
 
 ### PARTE 2: Restricciones Académicas Adicionales
-Copyright (c) 2024 [Tu Nombre] - SALERNS Project
+Copyright (c) 2024 [José JAvier Gutiérrez Gil] - SALERNS Project
 RESERVADOS TODOS LOS DERECHOS.
 
 Se prohíbe expresamente sin autorización por escrito del autor:
@@ -118,15 +118,15 @@ EL SOFTWARE Y LA DOCUMENTACIÓN SE PROPORCIONAN "TAL CUAL", SIN GARANTÍA DE NIN
 Si tienes permiso para usar este trabajo en tu investigación, debes citar:
 @software{salerns2025,
 title = {SALERNS: Satellite Emergency LoRa Network System},
-author = {Tu Nombre},
+author = {José Javier Gutiérrez Gil},
 year = {2025},
 url = {https://github.com/jogugil/SALERNS}
 ,
 note = {Protocolos LoRa modificados para comunicaciones de emergencia vía satélite - Uso restringido}
 }
 ## Contacto
-- Coordinador del Proyecto: [Tu Nombre]  
-- Email: [tu.email@dominio.com]  
+- Coordinador del Proyecto: José Javier Gutiérrez Gil]  
+- Email: [jogugil@gmail.com]  
 - Repositorio: https://github.com/jogugil/SALERNS  
 
 **Para solicitudes de colaboración o permisos de uso:**
@@ -136,6 +136,6 @@ note = {Protocolos LoRa modificados para comunicaciones de emergencia vía saté
 - Describir el alcance del uso previsto
 
 ## Agradecimientos
-Este proyecto de investigación se desarrolla como parte de [tu universidad/instituto] y cuenta con la colaboración de [entidades colaboradoras].
+Este proyecto de investigación se desarrolla como parte de [inverstigación y proyecto personal] y cuenta con la colaboración de [entidades colaboradoras (no)].
 
 ⚠️ **ADVERTENCIA LEGAL:** Este proyecto está protegido por derechos de autor y restricciones académicas. Cualquier uso no autorizado puede constituir una violación de la propiedad intelectual.
